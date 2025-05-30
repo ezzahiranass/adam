@@ -1,0 +1,5 @@
+cadquery
+shapely
+ifcopenshell
+numpy
+scipy

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: adam
+Version: 0.1
+Summary: Parametric modeling framework for architectural research
+Author: Your Name
+Requires-Dist: cadquery
+Requires-Dist: shapely
+Requires-Dist: ifcopenshell
+Requires-Dist: numpy
+Requires-Dist: scipy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
