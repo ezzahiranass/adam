@@ -1,7 +1,7 @@
 # ADAM - Architectural Design Automation Module
 
-ADAM is a Python-based computational design framework inspired by Grasshopper that facilitates structured geometry creation and parametric design through a data flow system.
-
+ADAM is a Python-based computational design framework that facilitates structured geometry creation and parametric design through a data flow system.
+Developed as a part of my PhD research.
 ## Core Concepts
 
 ### Data Structure

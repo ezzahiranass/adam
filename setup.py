@@ -12,6 +12,6 @@ setup(
         "scipy",
         # Add other dependencies here
     ],
-    author="Your Name",
+    author="Ezzahir Anass",
     description="Parametric modeling framework for architectural research",
 )
